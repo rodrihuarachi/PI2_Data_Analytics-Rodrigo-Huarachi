@@ -14,7 +14,7 @@ En la ``Ciudad de Buenos Aires`` con mucho tráfico y alta densidad de població
 
 La prevención de siniestros viales es importante y requiere un enfoque integral que incluya educación vial, cumplimiento de las normas de tráfico, infraestructura segura y vehículos seguros. Además, es necesario recopilar datos y aplicar políticas efectivas para abordar este problema adecuadamente.
 
-Por lo tanto, el Observatorio de Movilidad y Seguridad Vial (OMSV), un centro de estudios que se encuentra bajo la órbita de la *Secretaría de Transporte* del Gobierno de la Ciudad Autónoma de Buenos Aires, nos ha solicitado la elaboración de un proyecto de anális de datos, con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales. 
+Por lo tanto, el ``Observatorio de Movilidad y Seguridad Vial (OMSV)``, un centro de estudios que se encuentra bajo la órbita de la *Secretaría de Transporte* del Gobierno de la Ciudad Autónoma de Buenos Aires, nos ha solicitado la elaboración de un proyecto de anális de datos, con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales. 
 
 
 # **Datos**
