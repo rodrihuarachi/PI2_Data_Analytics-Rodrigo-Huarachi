@@ -136,3 +136,7 @@ Basándonos en las observaciones y datos analizados sobre los accidentes de trá
 - Se ha determinado la urgente necesidad de tomar medidas inmediatas en los controles y regulaciones de las avenidas, dado que estas vías representan un mayor número de víctimas en comparación con otros tipos de calles.
 
 - Se observó que en las avenidas representa un porcentaje significativamente alto de ocurrencia de los siniestros en comparación con otros tipos de calles.
+
+## **Visualización**
+
+Puede ingresar a este [link](https://app.powerbi.com/view?r=eyJrIjoiYmFkZmM0NzYtOTcxZC00NmYyLWExZmMtMTY5MGQ1MzJmODJlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) para poder visualizar el Dashboard interactivo creado en Power BI.
